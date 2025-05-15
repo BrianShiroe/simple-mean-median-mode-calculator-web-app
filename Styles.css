@@ -1,0 +1,41 @@
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card {
+  background-color: #ffffff;
+  border: none;
+}
+
+textarea.form-control {
+  resize: none;
+  font-size: 0.95rem;
+}
+
+.error {
+  color: #dc3545;
+  font-weight: 500;
+}
+
+table.class-interval {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+
+table.class-interval th,
+table.class-interval td {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  text-align: center;
+}
+
+table.class-interval th {
+  background-color: #f1f3f5;
+}
+
+table.class-interval tr:hover {
+  background-color: #f8f9fa;
+}
