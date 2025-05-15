@@ -8,7 +8,6 @@ A simple web-based calculator that computes the **Mean**, **Median**, **Mode**, 
   - **Mean** (Average)
   - **Median** (Middle Value)
   - **Mode** (Most Frequent Number)
-  - **Range** (Max - Min)
 - 🎯 Responsive design using Bootstrap 5
 - 🧊 User-friendly interface with real-time results
 - 💡 No backend or database — runs entirely in the browser
