@@ -12,10 +12,6 @@ A simple web-based calculator that computes the **Mean**, **Median**, **Mode**, 
 - 🧊 User-friendly interface with real-time results
 - 💡 No backend or database — runs entirely in the browser
 
-## 🚀 Live Demo
-
-👉 [Click here to try it online](#) *(Add your GitHub Pages or hosted link here)*
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
