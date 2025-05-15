@@ -22,5 +22,3 @@ A simple web-based calculator that computes the **Mean**, **Median**, **Mode**, 
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **Bootstrap 5**
-
-## 📦 Project Structure
